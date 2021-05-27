@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EmailSampleTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2021-05-27T16:09:30" hostname="DESKTOP-BS45UV7" time="0.189">
+  <properties/>
+  <testcase name="CheckEmailValid[0]" classname="EmailSampleTest" time="0.006"/>
+  <testcase name="CheckEmailValid[1]" classname="EmailSampleTest" time="0.005"/>
+  <testcase name="CheckEmailValid[2]" classname="EmailSampleTest" time="0.003"/>
+  <testcase name="CheckEmailValid[3]" classname="EmailSampleTest" time="0.003"/>
+  <testcase name="CheckEmailValid[4]" classname="EmailSampleTest" time="0.006"/>
+  <testcase name="CheckEmailValid[5]" classname="EmailSampleTest" time="0.002"/>
+  <testcase name="CheckEmailValid[6]" classname="EmailSampleTest" time="0.003"/>
+  <testcase name="CheckEmailValid[7]" classname="EmailSampleTest" time="0.003"/>
+  <testcase name="CheckEmailValid[8]" classname="EmailSampleTest" time="0.008"/>
+  <testcase name="CheckEmailValid[9]" classname="EmailSampleTest" time="0.003"/>
+  <testcase name="CheckEmailValid[10]" classname="EmailSampleTest" time="0.003"/>
+  <testcase name="CheckEmailValid[11]" classname="EmailSampleTest" time="0.006"/>
+  <testcase name="CheckEmailValid[12]" classname="EmailSampleTest" time="0.008"/>
+  <testcase name="CheckEmailValid[13]" classname="EmailSampleTest" time="0.002"/>
+  <testcase name="CheckEmailValid[14]" classname="EmailSampleTest" time="0.005"/>
+  <testcase name="CheckEmailValid[15]" classname="EmailSampleTest" time="0.005"/>
+  <testcase name="CheckEmailValid[16]" classname="EmailSampleTest" time="0.022"/>
+  <testcase name="CheckEmailValid[17]" classname="EmailSampleTest" time="0.002"/>
+  <testcase name="CheckEmailValid[18]" classname="EmailSampleTest" time="0.001"/>
+  <testcase name="CheckEmailValid[19]" classname="EmailSampleTest" time="0.002"/>
+  <testcase name="CheckEmailValid[20]" classname="EmailSampleTest" time="0.001"/>
+  <testcase name="CheckEmailValid[21]" classname="EmailSampleTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
